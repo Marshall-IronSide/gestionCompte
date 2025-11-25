@@ -1,10 +1,5 @@
-
 import java.util.Scanner;
 
-/**
- *
- * @author 
- */
 public class LigneComptable {
     private double valeur;
     private String date;

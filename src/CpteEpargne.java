@@ -1,11 +1,6 @@
-
 import java.util.Scanner;
 
-/**
- *
- * @author kpaka.batazi
- */
-public class CpteEpargne extends Compte{
+ class CpteEpargne extends Compte{
     private double taux;
     public CpteEpargne(){
         super("Epargne");

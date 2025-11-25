@@ -1,10 +1,5 @@
-
 import java.util.Scanner;
 
-/**
- *
- * @author 
- */
 public class Compte {
     private String typeCpte;
     private double val_courante;
